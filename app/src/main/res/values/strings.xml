@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">GYM Гумеров</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="step1">Step 1/5</string>
+    <string name="purpose">What is your purpose?</string>
+    <string name="weight">Weight loss</string>
+    <string name="keeping_fit">Keeping fit</string>
+    <string name="build_muscule">Build muscule</string>
+    <string name="step2">Step 2/5</string>
 </resources>
